@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: black;
+}
+    
+    
+
+a:hover{
+    color: blue;
+}
+
+
+.image img{  
+   
+    width: 100%;
+    border-top: 10px solid blue;
+    border-bottom: 10px solid brown;
+   
+}
+    
+.judul{
+    float: left;
+    text-align: justify;
+    width: 50%;
+
+    
+}
+  
+    
+
+h3{
+    color: gray;
+   
+  
+}
+
+.penulis{
+float: right;
+text-align: justify;
+width: 40%;
+
+}
+.penulis p img {
+    float: left;
+    width: 100px;
+    height: 120px;
+    padding-top: 5px;
+    padding-right: 3px;
+}
+
+.footer{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: justify;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+.logo img{
+    height: 140px;
+}
+
+.footer p{
+    text-align: center;
+    margin-top: 700px;
+    background-color: black;
+}
+.conteiner{
+    width: 900px;
+    margin: auto;
+    background-color:white;
+}
+.main{
+    padding: 20px;
+    float: left;
+    width: 600px;
+}
+.judul .akubisa{
+    padding-top: 20px;
+    margin-top:-20px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
